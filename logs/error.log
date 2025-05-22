@@ -1,0 +1,355 @@
+2025-04-11 11:21:56 - API Key không hợp lệ
+[14-Apr-2025 20:34:30 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: 69ee0687de1c1a45430023eb1ee74120ac0d39a8b21a76e005de54b5dca86a84
+[14-Apr-2025 20:41:30 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: 772b29e4d94e7e3f11e07f3e39db8e80b69e39e80c240a77252b5db2e5f24129
+[14-Apr-2025 20:49:59 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: 772b29e4d94e7e3f11e07f3e39db8e80b69e39e80c240a77252b5db2e5f24129
+[14-Apr-2025 20:55:41 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: a0cd90038a1b70397db1d6a4345f767ffa4abe452bc3332e89087f6f9eac2ec0
+[14-Apr-2025 20:59:00 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: e1be77690c01c7a1cbdafb1cbc0311bc9847d9039b3ec49dfbcf566d79b34c68
+[14-Apr-2025 20:59:02 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: e1be77690c01c7a1cbdafb1cbc0311bc9847d9039b3ec49dfbcf566d79b34c68
+[14-Apr-2025 21:02:10 Europe/Berlin] CSRF validation failed. Input token: not set, Session token: e1be77690c01c7a1cbdafb1cbc0311bc9847d9039b3ec49dfbcf566d79b34c68
+[14-Apr-2025 21:09:16 Europe/Berlin] User sv001 logged in successfully.
+[2025-04-15 08:50:17] User sv001 logged in successfully.
+[2025-04-15 08:50:40] User logged out successfully from IP: ::1
+[2025-04-15 08:52:21] User logged out successfully from IP: ::1
+[2025-04-15 08:52:32] User hust.admin logged in successfully.
+[2025-04-15 08:52:41] User logged out successfully from IP: ::1
+[2025-04-15 08:52:57] User hust.dungnt logged in successfully.
+[2025-04-15 08:53:32] User logged out successfully from IP: ::1
+[2025-04-15 09:27:45] Login failed for username: admin
+[2025-04-15 09:27:56] User hust.admin logged in successfully.
+[2025-04-15 09:34:10] User logged out successfully from IP: ::1
+[2025-04-15 09:34:18] User hust.admin logged in successfully.
+[2025-04-15 09:43:14] User logged out successfully from IP: ::1
+[2025-04-15 09:43:19] User hust.admin logged in successfully.
+[2025-04-15 10:00:52] User logged out successfully from IP: ::1
+[2025-04-15 10:00:57] User hust.admin logged in successfully.
+[2025-04-15 10:21:44] User logged out successfully from IP: ::1
+[2025-04-15 10:21:49] User hust.admin logged in successfully.
+[2025-04-15 17:46:15] User hust.dungnt logged in successfully.
+[2025-04-15 18:25:22] User logged out successfully from IP: ::1
+[2025-04-16 05:13:03] Login failed for username: hust.admin
+[2025-04-16 05:13:06] User hust.admin logged in successfully.
+[2025-04-16 05:16:20] User logged out successfully from IP: ::1
+[2025-04-16 05:16:27] User hust.admin logged in successfully.
+[2025-04-16 05:28:23] User logged out successfully from IP: ::1
+[2025-04-16 05:28:30] User hust.admin logged in successfully.
+[2025-04-16 05:44:53] User logged out successfully from IP: ::1
+[2025-04-16 05:45:00] User hust.admin logged in successfully.
+[2025-04-16 05:53:07] User logged out successfully from IP: ::1
+[2025-04-16 05:53:15] User hust.admin logged in successfully.
+[2025-04-16 05:56:17] User logged out successfully from IP: ::1
+[2025-04-16 05:56:24] User hust.admin logged in successfully.
+[2025-04-16 05:58:43] User logged out successfully from IP: ::1
+[2025-04-16 11:00:44] User logged out successfully from IP: ::1
+[2025-04-16 11:00:51] User hust.admin logged in successfully.
+[2025-04-16 11:39:34] User logged out successfully from IP: ::1
+[2025-04-16 11:39:39] User hust.admin logged in successfully.
+[2025-04-16 11:41:21] User logged out successfully from IP: ::1
+[2025-04-16 11:41:38] User logged out successfully from IP: ::1
+[2025-04-16 11:42:07] User logged out successfully from IP: ::1
+[2025-04-16 11:42:14] User hust.admin logged in successfully.
+[2025-04-16 11:45:32] User logged out successfully from IP: ::1
+[2025-04-16 11:45:38] User hust.admin logged in successfully.
+[2025-04-16 11:47:11] User logged out successfully from IP: ::1
+[2025-04-16 11:47:14] User hust.admin logged in successfully.
+[2025-04-16 11:47:37] User logged out successfully from IP: ::1
+[2025-04-16 11:47:40] User hust.admin logged in successfully.
+[2025-04-16 12:09:54] User logged out successfully from IP: ::1
+[2025-04-16 12:10:02] User hust.admin logged in successfully.
+[2025-04-16 12:22:36] User logged out successfully from IP: ::1
+[2025-04-16 12:23:03] User hust.dungnt logged in successfully.
+[2025-04-16 12:23:50] User logged out successfully from IP: ::1
+[2025-04-16 13:02:50] User hust.dungnt logged in successfully.
+[2025-04-16 13:20:21] User logged out successfully from IP: ::1
+[2025-04-16 13:20:27] User hust.admin logged in successfully.
+[2025-04-16 13:23:16] User logged out successfully from IP: ::1
+[2025-04-16 13:23:22] User hust.admin logged in successfully.
+[2025-04-16 13:25:01] User logged out successfully from IP: ::1
+[2025-04-16 13:25:10] User hust.admin logged in successfully.
+[2025-04-16 13:35:20] User logged out successfully from IP: ::1
+[2025-04-16 13:35:27] User hust.admin logged in successfully.
+[2025-04-16 13:35:55] User logged out successfully from IP: ::1
+[2025-04-16 13:36:02] Login failed for username: hust.admin
+[2025-04-16 13:36:07] User hust.admin logged in successfully.
+[2025-04-16 13:37:09] User logged out successfully from IP: ::1
+[2025-04-16 13:37:20] User hust.admin logged in successfully.
+[2025-04-16 13:40:30] User logged out successfully from IP: ::1
+[2025-04-16 13:49:57] User logged out successfully from IP: ::1
+[2025-04-16 13:51:51] User logged out successfully from IP: ::1
+[2025-04-16 13:52:27] User logged out successfully from IP: ::1
+[2025-04-16 13:54:50] User hust.admin logged in successfully.
+[2025-04-16 18:33:01] User hust.admin logged in successfully.
+[2025-04-16 18:44:05] User logged out successfully from IP: ::1
+[2025-04-16 18:44:13] Login failed for username: hust,dungnt
+[2025-04-16 18:44:25] User hust.dungnt logged in successfully.
+[2025-04-16 18:46:04] User logged out successfully from IP: ::1
+[2025-04-16 19:26:52] User hust.admin logged in successfully.
+[2025-04-16 19:27:03] User logged out successfully from IP: ::1
+[2025-04-16 19:27:09] User hust.dungnt logged in successfully.
+[2025-04-16 19:27:14] User logged out successfully from IP: ::1
+[2025-04-16 19:40:16] User hust.dungnt logged in successfully.
+[2025-04-16 19:40:19] User logged out successfully from IP: ::1
+[2025-04-17 18:57:43] User hust.dungnt logged in successfully.
+[2025-04-17 19:29:29] User logged out successfully from IP: ::1
+[2025-04-17 19:29:33] User hust.admin logged in successfully.
+[2025-04-17 19:30:32] User logged out successfully from IP: ::1
+[2025-04-17 20:29:24] User sv001 logged in successfully.
+[2025-04-17 20:31:04] User logged out successfully from IP: ::1
+[2025-04-17 20:31:09] User sv001 logged in successfully.
+[2025-04-17 20:33:42] User logged out successfully from IP: ::1
+[2025-04-17 20:33:52] User sv001 logged in successfully.
+[2025-04-17 20:36:00] User logged out successfully from IP: ::1
+[2025-04-17 20:36:07] User sv001 logged in successfully.
+[2025-04-17 20:43:36] User logged out successfully from IP: ::1
+[2025-04-17 20:43:47] User sv001 logged in successfully.
+[2025-04-17 20:54:15] User logged out successfully from IP: ::1
+[2025-04-17 20:54:29] User sv001 logged in successfully.
+[2025-04-17 20:55:38] User logged out successfully from IP: ::1
+[2025-04-17 20:55:50] User sv001 logged in successfully.
+[2025-04-17 21:04:09] User logged out successfully from IP: ::1
+[2025-04-17 21:04:16] User sv001 logged in successfully.
+[2025-04-17 21:04:41] User logged out successfully from IP: ::1
+[2025-04-17 21:04:45] User sv001 logged in successfully.
+[2025-04-17 21:14:37] User logged out successfully from IP: ::1
+[2025-04-17 21:14:45] User sv001 logged in successfully.
+[2025-04-17 21:30:44] User logged out successfully from IP: ::1
+[2025-04-17 21:30:49] User logged out successfully from IP: ::1
+[2025-04-17 21:30:54] User sv001 logged in successfully.
+[2025-04-17 21:31:15] User logged out successfully from IP: ::1
+[2025-04-17 21:31:21] User sv001 logged in successfully.
+[2025-04-17 21:32:53] User logged out successfully from IP: ::1
+[2025-04-17 21:33:04] User sv001 logged in successfully.
+[2025-04-17 21:46:47] User logged out successfully from IP: ::1
+[2025-04-17 21:46:53] User sv001 logged in successfully.
+[2025-04-18 09:16:01] User logged out successfully from IP: ::1
+[2025-04-18 09:19:41] User hust.admin logged in successfully.
+[2025-04-18 09:20:20] User logged out successfully from IP: ::1
+[2025-04-18 09:20:27] User hust.dungnt logged in successfully.
+[2025-04-18 09:22:51] User logged out successfully from IP: ::1
+[2025-04-18 09:23:02] User sv001 logged in successfully.
+[2025-04-18 09:23:12] User logged out successfully from IP: ::1
+[2025-04-18 09:41:07] Login failed for username: hust.nt
+[2025-04-18 09:41:12] User hust.dungnt logged in successfully.
+[2025-04-18 09:44:48] User logged out successfully from IP: ::1
+[2025-04-18 09:44:54] Login failed for username: hust.admin
+[2025-04-18 09:44:55] User hust.admin logged in successfully.
+[2025-04-18 09:56:03] User logged out successfully from IP: ::1
+[2025-04-18 09:56:11] User hust.dungnt logged in successfully.
+[2025-04-18 10:07:40] User logged out successfully from IP: ::1
+[2025-04-18 10:07:46] User hust.admin logged in successfully.
+[2025-04-18 10:22:29] User logged out successfully from IP: ::1
+[2025-04-18 10:22:46] User hust.dungnt logged in successfully.
+[2025-04-18 10:24:34] User logged out successfully from IP: ::1
+[2025-04-18 10:38:56] User hust.admin logged in successfully.
+[2025-04-18 10:39:57] User logged out successfully from IP: ::1
+[2025-04-19 18:30:42] User logged out successfully from IP: ::1
+[2025-04-19 18:30:49] User sv001 logged in successfully.
+[2025-04-19 18:30:59] User logged out successfully from IP: ::1
+[2025-04-19 18:31:03] User logged out successfully from IP: ::1
+[2025-04-19 18:34:02] User logged out successfully from IP: ::1
+[2025-04-19 18:34:13] User sv001 logged in successfully.
+[2025-04-21 19:26:33] User logged out successfully from IP: ::1
+[2025-04-21 19:27:14] User sv001 logged in successfully.
+[2025-04-21 20:41:21] User logged out successfully from IP: ::1
+[2025-04-21 20:41:28] User sv001 logged in successfully.
+[2025-04-21 20:41:43] User logged out successfully from IP: ::1
+[2025-04-21 20:41:55] User sv001 logged in successfully.
+[2025-04-21 20:42:33] User logged out successfully from IP: ::1
+[2025-04-21 20:42:43] User sv001 logged in successfully.
+[2025-04-21 20:43:32] User logged out successfully from IP: ::1
+[2025-04-21 20:43:43] User sv001 logged in successfully.
+[2025-04-21 20:44:09] User logged out successfully from IP: ::1
+[2025-04-21 20:44:19] User sv001 logged in successfully.
+[2025-04-21 20:44:51] User logged out successfully from IP: ::1
+[2025-04-21 20:46:38] User logged out successfully from IP: ::1
+[2025-04-21 20:46:48] User sv001 logged in successfully.
+[2025-04-21 20:47:09] User logged out successfully from IP: ::1
+[2025-04-21 20:51:44] User logged out successfully from IP: ::1
+[2025-04-21 20:51:51] User hust.dungnt logged in successfully.
+[2025-04-21 20:51:55] User logged out successfully from IP: ::1
+[2025-04-21 20:51:59] User hust.admin logged in successfully.
+[2025-04-21 20:52:17] User logged out successfully from IP: ::1
+[2025-04-21 20:52:23] User hust.dungnt logged in successfully.
+[2025-04-21 20:52:28] User logged out successfully from IP: ::1
+[2025-04-21 20:57:50] User logged out successfully from IP: ::1
+[2025-04-21 20:57:59] User sv001 logged in successfully.
+[2025-04-21 21:07:45] User logged out successfully from IP: ::1
+[2025-04-21 21:07:51] User sv001 logged in successfully.
+[2025-04-21 21:08:43] User logged out successfully from IP: ::1
+[2025-04-21 21:08:52] User sv001 logged in successfully.
+[2025-04-21 21:28:31] User logged out successfully from IP: ::1
+[2025-04-21 21:28:47] User logged out successfully from IP: ::1
+[2025-04-21 21:28:55] User sv001 logged in successfully.
+[2025-04-21 21:44:58] User logged out successfully from IP: ::1
+[2025-04-21 21:45:08] User logged out successfully from IP: ::1
+[2025-04-21 21:45:15] User sv001 logged in successfully.
+[2025-04-21 21:45:54] User logged out successfully from IP: ::1
+[2025-04-21 21:46:01] User logged out successfully from IP: ::1
+[2025-04-21 21:46:10] Login failed for username: sv001
+[2025-04-21 21:46:17] Login failed for username: sv001
+[2025-04-21 21:46:20] Login failed for username: sv001
+[2025-04-21 21:46:29] User sv001 logged in successfully.
+[2025-04-21 21:47:36] User logged out successfully from IP: ::1
+[2025-04-22 05:58:00] User logged out successfully from IP: ::1
+[2025-04-22 05:58:05] User sv001 logged in successfully.
+[2025-04-22 06:53:41] User logged out successfully from IP: ::1
+[2025-04-22 06:53:51] User logged out successfully from IP: ::1
+[2025-04-22 06:54:02] User sv001 logged in successfully.
+[2025-04-22 06:55:03] User logged out successfully from IP: ::1
+[2025-04-22 06:55:11] User logged out successfully from IP: ::1
+[2025-04-22 06:55:17] User sv001 logged in successfully.
+[2025-04-22 07:01:11] User logged out successfully from IP: ::1
+[2025-04-22 07:39:15] User logged out successfully from IP: ::1
+[2025-04-22 07:39:21] User hust.admin logged in successfully.
+[2025-04-22 08:00:22] User logged out successfully from IP: ::1
+[2025-04-22 08:00:35] User hust.dungnt logged in successfully.
+[2025-04-22 08:01:19] User logged out successfully from IP: ::1
+[2025-04-22 08:01:42] User hust.admin logged in successfully.
+[2025-04-22 08:03:12] User logged out successfully from IP: ::1
+[2025-04-22 12:02:48] User logged out successfully from IP: ::1
+[2025-04-22 12:03:12] User hust.admin logged in successfully.
+[2025-04-22 12:23:28] User logged out successfully from IP: ::1
+[2025-04-22 12:23:43] User logged out successfully from IP: ::1
+[2025-04-22 12:23:55] User hust.admin logged in successfully.
+[2025-04-22 12:28:53] User logged out successfully from IP: ::1
+[2025-04-22 12:29:19] User logged out successfully from IP: ::1
+[2025-04-22 12:29:26] User hust.admin logged in successfully.
+[2025-04-22 12:31:58] User logged out successfully from IP: ::1
+[2025-04-22 12:32:03] User logged out successfully from IP: ::1
+[2025-04-22 12:32:12] User hust.admin logged in successfully.
+[2025-04-22 12:35:25] User logged out successfully from IP: ::1
+[2025-04-22 12:35:29] Login failed for username: sv009
+[2025-04-22 12:35:33] User SV009 logged in successfully.
+[2025-04-22 12:35:37] User logged out successfully from IP: ::1
+[2025-04-22 12:35:59] User hust.admin logged in successfully.
+[2025-04-22 12:46:04] User logged out successfully from IP: ::1
+[2025-04-22 12:46:09] User hust.dungnt logged in successfully.
+[2025-04-22 12:56:37] User logged out successfully from IP: ::1
+[2025-04-22 12:56:41] Login failed for username: sv001
+[2025-04-22 12:56:45] User sv001 logged in successfully.
+[2025-04-22 12:57:42] User logged out successfully from IP: ::1
+[2025-04-22 12:57:49] User hust.dungnt logged in successfully.
+[2025-04-22 16:01:37] User logged out successfully from IP: ::1
+[2025-04-22 16:01:50] User hust.admin logged in successfully.
+[2025-04-22 19:28:50] User logged out successfully from IP: ::1
+[2025-04-22 19:28:57] User logged out successfully from IP: ::1
+[2025-04-22 19:29:03] User hust.admin logged in successfully.
+[2025-04-22 19:38:07] User logged out successfully from IP: ::1
+[2025-04-22 19:38:15] User hust.dungnt logged in successfully.
+[2025-04-22 19:38:41] User logged out successfully from IP: ::1
+[2025-04-22 19:38:45] User sv001 logged in successfully.
+[2025-04-22 19:39:11] User logged out successfully from IP: ::1
+[2025-04-23 06:55:57] User logged out successfully from IP: ::1
+[2025-04-23 06:56:07] User hust.admin logged in successfully.
+[2025-04-23 06:57:03] User logged out successfully from IP: ::1
+[2025-04-23 06:57:10] User hust.dungnt logged in successfully.
+[2025-04-23 06:58:37] User logged out successfully from IP: ::1
+[2025-04-23 06:58:41] User sv001 logged in successfully.
+[2025-04-23 06:59:00] User logged out successfully from IP: ::1
+[2025-04-23 10:22:11] User logged out successfully from IP: ::1
+[2025-04-23 10:22:16] User sv001 logged in successfully.
+[2025-04-23 10:25:23] User logged out successfully from IP: ::1
+[2025-04-23 10:25:46] Login failed for username: hust.admin
+[2025-04-23 10:25:50] User hust.admin logged in successfully.
+[2025-04-23 10:29:39] User logged out successfully from IP: ::1
+[2025-04-23 10:30:25] User hust.admin logged in successfully.
+[2025-04-23 10:31:53] User logged out successfully from IP: ::1
+[2025-04-23 10:32:01] User hust.dungnt logged in successfully.
+[2025-04-23 10:33:06] User logged out successfully from IP: ::1
+[2025-04-23 10:33:11] User sv001 logged in successfully.
+[2025-04-23 10:33:49] User logged out successfully from IP: ::1
+[2025-04-23 11:09:38] User logged out successfully from IP: ::1
+[2025-04-23 11:09:50] User hust.dungnt logged in successfully.
+[2025-04-23 11:14:52] User logged out successfully from IP: ::1
+[2025-04-23 18:02:17] User sv001 logged in successfully.
+[2025-04-23 18:02:40] User logged out successfully from IP: ::1
+[2025-04-23 18:02:48] User hust.admin logged in successfully.
+[2025-04-23 18:03:41] User logged out successfully from IP: ::1
+[2025-04-23 18:03:50] User hust.dungnt logged in successfully.
+[2025-04-23 18:18:48] User logged out successfully from IP: ::1
+[2025-04-24 12:18:22] User hust.dungnt logged in successfully.
+[2025-04-24 12:20:27] User logged out successfully from IP: ::1
+[2025-04-24 12:20:31] User sv001 logged in successfully.
+[2025-04-24 12:21:46] User logged out successfully from IP: ::1
+[2025-04-24 12:21:53] Login failed for username: hust.dungnt
+[2025-04-24 12:21:57] User hust.dungnt logged in successfully.
+[2025-05-06 17:40:41] Login failed for username: sv001
+[2025-05-06 17:40:51] Login failed for username: sv001
+[2025-05-06 17:41:40] User sv001 logged in successfully.
+[2025-05-06 17:56:32] User logged out successfully from IP: ::1
+[2025-05-06 17:56:37] User sv001 logged in successfully.
+[2025-05-06 18:07:24] User logged out successfully from IP: ::1
+[2025-05-07 10:17:47] User logged out successfully from IP: ::1
+[2025-05-07 10:18:03] User hust.dungnt logged in successfully.
+[2025-05-07 10:28:28] User logged out successfully from IP: ::1
+[2025-05-07 10:28:34] User hust.dungnt logged in successfully.
+[2025-05-07 10:48:22] User logged out successfully from IP: ::1
+[2025-05-07 10:48:27] User hust.dungnt logged in successfully.
+[2025-05-07 10:50:03] User logged out successfully from IP: ::1
+[2025-05-07 10:52:33] User logged out successfully from IP: ::1
+[2025-05-07 10:52:39] User logged out successfully from IP: ::1
+[2025-05-07 10:52:45] User hust.dungnt logged in successfully.
+[2025-05-07 10:53:20] User logged out successfully from IP: ::1
+[2025-05-08 06:33:12] User logged out successfully from IP: ::1
+[2025-05-08 06:33:29] User hust.dungnt logged in successfully.
+[2025-05-08 06:50:25] User logged out successfully from IP: ::1
+[2025-05-08 06:50:35] User hust.dungnt logged in successfully.
+[2025-05-08 06:51:06] User logged out successfully from IP: ::1
+[2025-05-08 06:51:18] User hust.dungnt logged in successfully.
+[2025-05-08 06:58:31] User logged out successfully from IP: ::1
+[2025-05-08 06:58:45] User hust.dungnt logged in successfully.
+[2025-05-08 07:00:26] User logged out successfully from IP: ::1
+[2025-05-08 07:00:34] User hust.dungnt logged in successfully.
+[2025-05-08 07:37:56] User logged out successfully from IP: ::1
+[2025-05-08 07:38:01] User hust.dungnt logged in successfully.
+[2025-05-08 07:38:48] User logged out successfully from IP: ::1
+[2025-05-08 07:38:52] User hust.dungnt logged in successfully.
+[2025-05-08 10:49:02] User logged out successfully from IP: ::1
+[2025-05-08 10:49:57] User hust.dungnt logged in successfully.
+[2025-05-08 11:04:04] User logged out successfully from IP: ::1
+[2025-05-08 11:04:13] User hust.dungnt logged in successfully.
+[2025-05-08 11:12:22] User logged out successfully from IP: ::1
+[2025-05-08 11:12:31] User hust.dungnt logged in successfully.
+[2025-05-08 11:12:42] User logged out successfully from IP: ::1
+[2025-05-08 11:12:52] User hust.dungnt logged in successfully.
+[2025-05-08 11:20:32] User logged out successfully from IP: ::1
+[2025-05-08 11:20:44] User hust.dungnt logged in successfully.
+[2025-05-08 11:25:25] User logged out successfully from IP: ::1
+[2025-05-08 11:25:30] User hust.dungnt logged in successfully.
+[2025-05-08 11:40:32] User logged out successfully from IP: ::1
+[2025-05-08 11:40:38] User hust.dungnt logged in successfully.
+[2025-05-08 11:42:48] User logged out successfully from IP: ::1
+[08-May-2025 12:17:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method CSRF::validate() in D:\xampp\htdocs\server_diem_danh\api\login.php:47
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\server_diem_danh\api\login.php on line 47
+[08-May-2025 12:17:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method CSRF::validate() in D:\xampp\htdocs\server_diem_danh\api\login.php:47
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\server_diem_danh\api\login.php on line 47
+[08-May-2025 12:21:52 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function RateLimiter::check(), 1 passed in D:\xampp\htdocs\server_diem_danh\api\login.php on line 61 and exactly 3 expected in D:\xampp\htdocs\server_diem_danh\modules\RateLimiter.php:11
+Stack trace:
+#0 D:\xampp\htdocs\server_diem_danh\api\login.php(61): RateLimiter::check('::1')
+#1 {main}
+  thrown in D:\xampp\htdocs\server_diem_danh\modules\RateLimiter.php on line 11
+[2025-05-08 12:23:04] User sv001 logged in successfully.
+[2025-05-08 12:23:38] User logged out successfully from IP: ::1
+[2025-05-08 12:23:45] User hust.dungnt logged in successfully.
+[2025-05-08 12:23:56] User logged out successfully from IP: ::1
+[2025-05-08 19:04:36] User logged out successfully from IP: ::1
+[2025-05-08 19:04:46] User hust.dungnt logged in successfully.
+[2025-05-08 19:13:47] User logged out successfully from IP: ::1
+[2025-05-08 19:13:56] User sv001 logged in successfully.
+[2025-05-08 19:27:47] User logged out successfully from IP: ::1
+[2025-05-08 19:27:56] User hust.dungnt logged in successfully.
+[2025-05-08 19:28:50] User logged out successfully from IP: ::1
+[2025-05-08 19:29:07] User sv001 logged in successfully.
+[2025-05-08 19:30:58] User logged out successfully from IP: ::1
+[2025-05-08 19:31:11] User hust.dungnt logged in successfully.
+[2025-05-08 19:39:52] User logged out successfully from IP: ::1
+[2025-05-08 19:39:55] User sv001 logged in successfully.
+[2025-05-08 19:46:02] User logged out successfully from IP: ::1
+[2025-05-08 19:46:10] User logged out successfully from IP: ::1
+[2025-05-08 19:46:16] User sv001 logged in successfully.
+[2025-05-08 19:51:01] User logged out successfully from IP: ::1
+[2025-05-08 19:51:13] User sv001 logged in successfully.
+[2025-05-08 19:52:41] User logged out successfully from IP: ::1
